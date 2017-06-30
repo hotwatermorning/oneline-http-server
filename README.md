@@ -2,6 +2,10 @@
 
 simple oneline http server
 
+## Dependencies
+
+[golang]( https://golang.org/ )
+
 ## Usage
 
 ```sh
